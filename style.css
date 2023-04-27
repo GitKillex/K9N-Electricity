@@ -378,7 +378,7 @@ textarea{
     }
     /* header holder */
     .header{
-        background-position: 58% 60%;
+        background-position: 60% 60%;
         padding-top: 25px;
     }
     .header__holder{
@@ -424,13 +424,13 @@ textarea{
         padding-bottom: 30px;
     }
     .form input{
-        width: 100vh;
+        width: 90vh;
     }
     .info__item textarea{
-        width: 100vh;
+        width: 90vh;
     }
     .info__item button{
-        width: 100vh;
+        width: 50vh;
         margin: auto;
     }
     .agree{
